@@ -1,0 +1,22 @@
+{
+  "name": "artg2260-finalv2",
+  "version": "0.0.0",
+  "authors": [
+    "Alice Young <aliceyoung.9@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "WTFPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "~2.1.3"
+  }
+}
