@@ -1,0 +1,19 @@
+{
+  "name": "artg2260-finalv2",
+  "version": "1.0.0",
+  "description": "Final Project for ARTG2260, Spring 2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ccs.neu.edu/alice/artg2260-ducking-robot"
+  },
+  "author": "Alice Young",
+  "license": "WTFPL",
+  "dependencies": {
+    "express": "^4.12.3",
+    "handlebars": "^3.0.1"
+  }
+}
