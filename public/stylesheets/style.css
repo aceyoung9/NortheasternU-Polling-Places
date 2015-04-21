@@ -1,0 +1,18 @@
+/* Fonts */
+@import url("http://fonts.googleapis.com/css?family=Lato:400,100,700,900");
+/* Colors */
+html,
+body {
+  background-color: #34515e;
+  color: #9ffff5;
+  font-family: "Lato", sans-serif;
+}
+.mastfoot {
+  color: #2dbfbf;
+}
+a {
+  color: #e08283;
+}
+a:hover {
+  color: #d55759;
+}
