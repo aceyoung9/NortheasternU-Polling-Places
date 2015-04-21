@@ -2,7 +2,8 @@ extends layout
 
 block content
   h1!= title
-  form
-    .form-group
-      input.form-control(placeholder='Enter Northeastern Dorm')
-    button.btn.btn-success(type='submit') Go!
+  
+  #prefetch
+    input(type="text", placeholder="Enter Northeastern Dorm").typeahead.form-control
+  
+  button.btn.btn-success(type='submit') Go!
