@@ -1,0 +1,71 @@
+{
+  "Burstein Hall": {
+    "address" : "458 Huntington Ave"
+  },
+  "Davenport Commons A": {
+    "address" : "700 Columbus Ave"
+  },
+  "Davenport Commons B": {
+    "address" : "696 Columbus Ave"
+  },
+  "International Village" : {
+    "address" : "1155 Tremont Street"
+  },
+  "Kennedy Hall": {
+    "address" : "119 Hemenway Street"
+  },
+  "Kerr Hall" : {
+    "address" : "96 The Fenway"
+  },
+  "Levine Hall" : {
+    "address" : "122 St. Stephen Street"
+  },
+  "Light Hall" : {
+    "address" : "81-83 St. Stephen Street"
+  },
+  "153 Hemenway Street" : {
+    "address" : "153 Hemenway Street"
+  },
+  "Loftman" : {
+    "address" : "157 Hemenway Street"
+  },
+  "Melvin Hall" : {
+    "address" : "90 The Fenway"
+  },
+  "Rubenstein Hall" : {
+    "address" : "464 Huntington Ave."
+  },
+  "Smith Hall" : {
+    "address" : "129 Hemenway Street"
+  },
+  "Speare Hall" : {
+    "address" : "10 Speare Place"
+  },
+  "Stetson West" : {
+    "address" : "10 Forsyth Street"
+  },
+  "West Village A North" : {
+    "address" : "500 Parker Street"
+  },
+  "West Village A South" : {
+    "address" : "510 Parker Street"
+  },
+  "West Village B" : {
+    "address" : "460 Parker Street"
+  },
+  "West Village C" : {
+    "address" : "480 Parker Street"
+  },
+  "West Village E" : {
+    "address" : "10 Leon Street"
+  },
+  "West Village F" : {
+    "address" : "40A Leon Street"
+  },
+  "West Village G" : {
+    "address" : "450 Parker Street"
+  },
+  "West Village H" : {
+    "address" : "440 Huntington Ave"
+  }
+}
