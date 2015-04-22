@@ -3,9 +3,9 @@ extends layout
 block content
   h1!= title
   
-  .row
+  form.row(action="results")
     .col-xs-10
       #prefetch
-        input(type="text", placeholder="Enter Northeastern Dorm").typeahead.form-control
+        input(type="text", placeholder="Enter Northeastern Dorm", name="dorm").typeahead.form-control
     .col-xs-2
       button.btn.btn-success.btn-block(type='submit') Go!
