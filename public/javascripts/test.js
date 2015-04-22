@@ -45,3 +45,6 @@ $('#prefetch .typeahead').typeahead({
   // is compatible with the typeahead jQuery plugin
   source: dorms.ttAdapter()
 });
+
+  // typeahead.js is overly opinionated about their gross-ass stylings.
+$(".tt-hint").addClass("form-control");
