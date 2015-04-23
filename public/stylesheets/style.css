@@ -30,7 +30,41 @@ a:hover {
 }
 .twitter-typeahead {
   width: 100%;
+  color: #fff;
 }
-form input {
+.tt-dropdown-menu {
+  min-width: 160px;
+  margin-top: 2px;
+  padding: 5px 0;
+  background-color: #548399;
+  border: 0;
+  background-clip: padding-box;
+}
+.tt-dropdown-menu -webkit-box-shadow: 0 6px 12px rgba(0,
+.tt-dropdown-menu 0,
+.tt-dropdown-menu 0.175) {
+  box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+}
+.tt-suggestion {
+  display: block;
+  padding: 3px 20px;
+}
+.tt-suggestion.tt-is-under-cursor {
+  color: #fff;
+}
+.tt-suggestion.tt-is-under-cursor a {
+  color: #fff;
+}
+.tt-suggestion p {
+  margin: 0;
+}
+form input.form-control {
+  background-color: #34515e;
+  border: 2px solid #30888e;
+  color: #2dbfbf;
+  border-radius: 0;
   font-weight: 400;
+}
+button.btn {
+  border-radius: 0;
 }
