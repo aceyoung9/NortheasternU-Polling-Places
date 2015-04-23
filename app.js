@@ -25,13 +25,6 @@ app.use(require('stylus').middleware(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'public')));
 app.use('/bower_components',  express.static(__dirname + '/bower_components'));
 
-// dataaaaaaa; get your json lol
-/*
-fs.readFile('public/javascripts/dorms.json', { encoding : "utf-8" }, function (err, data) {
-  if (err) throw err;
-  console.log(data);
-}); */
-
 app.use('/', routes);
 
 // catch 404 and forward to error handler
