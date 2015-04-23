@@ -1,71 +1,176 @@
 {
   "Burstein Hall": {
-    "address" : "458 Huntington Ave"
+    "address" : "458 Huntington Ave",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+	  "precinct" : "9"
   },
   "Davenport Commons A": {
-    "address" : "700 Columbus Ave"
+    "address" : "700 Columbus Ave",
+    "pollingLoc" : "Madison Park Complex",
+    "pollingAddress" : "735 Shawmut Avenue",
+    "instructions" : "Vote in Haynes House Community Room.",
+    "ward" : "9",
+    "precinct" : "4"
   },
   "Davenport Commons B": {
-    "address" : "696 Columbus Ave"
+    "address" : "696 Columbus Ave",
+    "pollingLoc" : "Madison Park Complex",
+    "pollingAddress" : "735 Shawmut Avenue",
+    "instructions" : "Vote in Haynes House Community Room.",
+    "ward" : "9",
+    "precinct" : "4"
   },
   "International Village" : {
-    "address" : "1155 Tremont Street"
+    "address" : "1155 Tremont Street",
+    "pollingLoc" : "Madison Park Complex",
+    "pollingAddress" : "735 Shawmut Avenue",
+    "instructions" : "Vote in Haynes House Community Room.",
+    "ward" : "9",
+    "precinct" : "4"
   },
   "Kennedy Hall": {
-    "address" : "119 Hemenway Street"
+    "address" : "119 Hemenway Street",
+    "pollingLoc" : "Morville House",
+    "pollingAddress" : "100 Norway Street",
+    "instructions" : "Vote in community room. Voter entrance on Edgerly Road",
+    "ward" : "4",
+    "precinct" : "7"
   },
   "Kerr Hall" : {
-    "address" : "96 The Fenway"
+    "address" : "96 The Fenway",
+    "pollingLoc" : "Morville House",
+    "pollingAddress" : "100 Norway Street",
+    "instructions" : "Vote in community room. Voter entrance on Edgerly Road",
+    "ward" : "4",
+    "precinct" : "7"
   },
   "Levine Hall" : {
     "address" : "122 St. Stephen Street"
   },
   "Light Hall" : {
-    "address" : "81-83 St. Stephen Street"
+    "address" : "83 St. Stephen Street"
   },
   "153 Hemenway Street" : {
-    "address" : "153 Hemenway Street"
+    "address" : "153 Hemenway Street",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+    "precinct" : "9"
   },
   "Loftman" : {
-    "address" : "157 Hemenway Street"
+    "address" : "157 Hemenway Street",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+    "precinct" : "9"
   },
   "Melvin Hall" : {
-    "address" : "90 The Fenway"
+    "address" : "90 The Fenway",
+    "pollingLoc" : "Morville House",
+    "pollingAddress" : "100 Norway Street",
+    "instructions" : "Vote in community room. Voter entrance on Edgerly Road",
+    "ward" : "4",
+    "precinct" : "7"
   },
   "Rubenstein Hall" : {
-    "address" : "464 Huntington Ave."
+    "address" : "464 Huntington Ave.",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+    "precinct" : "9"
   },
   "Smith Hall" : {
-    "address" : "129 Hemenway Street"
+    "address" : "129 Hemenway Street",
+    "pollingLoc" : "Morville House",
+    "pollingAddress" : "100 Norway Street",
+    "instructions" : "Vote in community room. Voter entrance on Edgerly Road",
+    "ward" : "4",
+    "precinct" : "7"
   },
   "Speare Hall" : {
-    "address" : "10 Speare Place"
+    "address" : "10 Speare Place",
+    "pollingLoc" : "Symphony Plaza West",
+    "pollingAddress" : "333 Massachusetts Avenue",
+    "instructions" : "Vote in community room",
+    "ward" : "4",
+    "precinct" : "8"
   },
   "Stetson West" : {
-    "address" : "10 Forsyth Street"
+    "address" : "10 Forsyth Street",
+    "pollingLoc" : "Symphony Plaza West",
+    "pollingAddress" : "333 Massachusetts Avenue",
+    "instructions" : "Vote in community room",
+    "ward" : "4",
+    "precinct" : "8"
   },
   "West Village A North" : {
-    "address" : "500 Parker Street"
+    "address" : "500 Parker Street",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+    "precinct" : "9"
   },
   "West Village A South" : {
-    "address" : "510 Parker Street"
+    "address" : "510 Parker Street",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+    "precinct" : "9"
   },
   "West Village B" : {
-    "address" : "460 Parker Street"
+    "address" : "460 Parker Street",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+    "precinct" : "9"
   },
   "West Village C" : {
-    "address" : "480 Parker Street"
+    "address" : "480 Parker Street",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+    "precinct" : "9"
   },
   "West Village E" : {
-    "address" : "10 Leon Street"
+    "address" : "10 Leon Street",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+    "precinct" : "9"
   },
   "West Village F" : {
-    "address" : "40A Leon Street"
+    "address" : "40 Leon Street",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+    "precinct" : "9"
   },
   "West Village G" : {
-    "address" : "450 Parker Street"
+    "address" : "450 Parker Street",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+    "precinct" : "9"
   },
   "West Village H" : {
-    "address" : "440 Huntington Ave"
+    "address" : "440 Huntington Ave",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+    "precinct" : "9"
   }
 }
