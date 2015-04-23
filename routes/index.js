@@ -10,8 +10,14 @@ router.get('/', function(req, res, next) {
 // lol results
 router.get('/results', function(req, res, next) {
   var dormName = req.query.dorm
-  console.log(dormLookup[dormName]);
-  res.render('results', { dormName: dormName });
+  var singleDorm = dormLookup[dormName];
+
+  res.render('results', { dormName: dormName,
+    pollingLoc: singleDorm.pollingLoc,
+    pollingAddress: singleDorm.pollingAddress,
+    instructions: singleDorm.instructions,
+    wardNo: singleDorm.ward,
+    precinctNo: singleDorm.precinct});
 });
 
 module.exports = router;

@@ -1,14 +1,22 @@
 /* Fonts */
-@import url("http://fonts.googleapis.com/css?family=Lato:400,100,700,900");
+@import url("http://fonts.googleapis.com/css?family=Lato:400,100,300,700,900");
 /* Colors */
 html,
 body {
-  background-color: #34515e;
+  background-color: #33393b;
   color: #9ffff5;
   font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+}
+.results h3 {
+  color: #fff;
+  border-bottom: 2px solid #fff;
 }
 .mastfoot {
   color: #2dbfbf;
+  font-size: 14px;
+  font-weight: 400;
 }
 a {
   color: #e08283;
@@ -18,4 +26,7 @@ a:hover {
 }
 .twitter-typeahead {
   width: 100%;
+}
+form input {
+  font-weight: 400;
 }

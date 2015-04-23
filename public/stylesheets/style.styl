@@ -1,5 +1,5 @@
 /* Fonts */
-@import url(http://fonts.googleapis.com/css?family=Lato:400,100,700,900)
+@import url(http://fonts.googleapis.com/css?family=Lato:400,100,300,700,900)
 
 /* Colors */
 $slateBlue= #34515e
@@ -11,12 +11,21 @@ $aqua= #2DBFBF
 $NEON= #F1F227
 
 html, body
-  background-color: $slateBlue
+  background-color: mix(#333, $slateBlue, 80%)
   color: $muteBlue
   font-family: "Lato", sans-serif
+  font-weight: 300
+  font-size: 18px
+
+.results
+  h3
+    color: white
+    border-bottom: 2px solid white
 
 .mastfoot
   color: $aqua
+  font-size: 14px;
+  font-weight: 400
 
 a
   color: $liteRed
@@ -25,3 +34,7 @@ a
 
 .twitter-typeahead
   width: 100%
+
+form
+  input
+    font-weight 400

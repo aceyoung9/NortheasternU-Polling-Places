@@ -1,5 +1,21 @@
 extends layout
 
 block content
-  h1 Hello #{dormName} Resident!
-  p this is where you vote
+  .results
+    .row 
+      .col-sm-12
+        h1 Hello #{dormName} Resident!
+    .row
+      .col-sm-6
+        h3 Your Polling Place
+        address #{pollingLoc}
+          br
+          | #{pollingAddress}
+        h3 Extra instructions
+        p #{instructions}
+        
+      .col-sm-6
+        h3 Details
+        | Ward: #{wardNo}
+        br
+        | Precinct: #{precinctNo}
