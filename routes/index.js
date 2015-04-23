@@ -13,6 +13,7 @@ router.get('/results', function(req, res, next) {
   var singleDorm = dormLookup[dormName];
 
   res.render('results', { dormName: dormName,
+    address: singleDorm.address,
     pollingLoc: singleDorm.pollingLoc,
     pollingAddress: singleDorm.pollingAddress,
     instructions: singleDorm.instructions,

@@ -13,7 +13,11 @@ body {
   color: #fff;
   border-bottom: 2px solid #fff;
 }
-.mastfoot {
+footer {
+  text-align: center;
+}
+.mastfoot,
+footer {
   color: #2dbfbf;
   font-size: 14px;
   font-weight: 400;

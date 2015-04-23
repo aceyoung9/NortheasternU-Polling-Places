@@ -1,0 +1,21 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    title= title
+    link(rel='stylesheet', href="/bower_components/bootstrap/dist/css/bootstrap.css")
+    link(rel='stylesheet', href='/stylesheets/cover.css')
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body
+    .container
+      .col-sm-8.col-sm-offset-2
+        block content
+        footer
+          p.
+            Hammered together by 
+            #[a(href="http://www.twitter.com/alice_young9" target="_blank") @alice_young9]. Soon to be Open-Sourced and put on Github.
+  script(src="/bower_components/jquery/dist/jquery.js")
+  script(src="/bower_components/typeahead.js/dist/typeahead.bundle.js")
+  script(src="/javascripts/test.js")
