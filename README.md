@@ -8,11 +8,11 @@ Alice Young
 * jQuery
 * Bootstrap
 
-Also the Google Maps Embed API. Runs on Node.
+Also the Google Maps Embed API. Runs on ExpressJS/Node.
 
 ## How to Run Locally
 
-Requires [Node.js](https://nodejs.org/).
+Requires [Node.js](https://nodejs.org/) and Bower.
 
 In the directory where you've unzipped this...
 
@@ -22,4 +22,8 @@ bower install
 npm start
 ```
 
-Once you've done this, navigate to [http://localhost:3000/](http://localhost:3000/) in your browser.
+Once you've done this, navigate to
+[http://localhost:3000/](http://localhost:3000/) in your browser.
+
+## Contributing
+Contributor Convent, latest version. Be nice, folks.

@@ -38,12 +38,9 @@ a:hover {
   padding: 5px 0;
   background-color: #548399;
   border: 0;
-  background-clip: padding-box;
-}
-.tt-dropdown-menu -webkit-box-shadow: 0 6px 12px rgba(0,
-.tt-dropdown-menu 0,
-.tt-dropdown-menu 0.175) {
+  -webkit-box-shadow: 0 6px 12px rgba(0,0,0,0.175);
   box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+  background-clip: padding-box;
 }
 .tt-suggestion {
   display: block;

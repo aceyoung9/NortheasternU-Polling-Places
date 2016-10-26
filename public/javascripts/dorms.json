@@ -23,6 +23,14 @@
     "ward" : "9",
     "precinct" : "4"
   },
+  "East Village": {
+    "address" : "291 St. Botolph St",
+    "pollingLoc" : "Symphony Plaza West",
+    "pollingAddress" : "333 Massachusetts Avenue",
+    "instructions" : "Vote in community room",
+    "ward" : "4",
+    "precinct" : "8"
+  },
   "International Village" : {
     "address" : "1155 Tremont Street",
     "pollingLoc" : "Madison Park Complex",
@@ -101,8 +109,24 @@
     "ward" : "4",
     "precinct" : "8"
   },
+  "Stetson East" : {
+    "address" : "11 Speare Place",
+    "pollingLoc" : "Symphony Plaza West",
+    "pollingAddress" : "333 Massachusetts Avenue",
+    "instructions" : "Vote in community room",
+    "ward" : "4",
+    "precinct" : "8"
+  },
   "Stetson West" : {
     "address" : "10 Forsyth Street",
+    "pollingLoc" : "Symphony Plaza West",
+    "pollingAddress" : "333 Massachusetts Avenue",
+    "instructions" : "Vote in community room",
+    "ward" : "4",
+    "precinct" : "8"
+  },
+  "St. Stephen St. Complex" : {
+    "address" : "122 St. Stephen Street",
     "pollingLoc" : "Symphony Plaza West",
     "pollingAddress" : "333 Massachusetts Avenue",
     "instructions" : "Vote in community room",
