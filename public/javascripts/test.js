@@ -28,6 +28,7 @@ var dorms = ["Burstein Hall",
   "West Village G",
   "West Village H",
   "Willis Hall"
+  "White Hall"
 ];
 
 // constructs the suggestion engine

@@ -223,6 +223,14 @@
     "ward" : "4",
     "precinct" : "9"
   },
+  "White Hall" : {
+    "address" : "21 Forsyth Street",
+    "pollingLoc" : "Wentworth Institute - Annex Central Building",
+    "pollingAddress" : "550 Parker Street",
+    "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
+    "ward" : "4",
+    "precinct" : "9"
+  },
   "Willis Hall" : {
     "address" : "50 Leon Street",
     "pollingLoc" : "Wentworth Institute - Annex Central Building",
