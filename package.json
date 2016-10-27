@@ -1,6 +1,6 @@
 {
   "name": "NortheasternU-Polling-Places",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "it helps huskies find their polling place.",
   "private": true,
   "scripts": {

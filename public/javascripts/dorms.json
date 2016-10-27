@@ -5,7 +5,15 @@
     "pollingAddress" : "550 Parker Street",
     "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
     "ward" : "4",
-	  "precinct" : "9"
+    "precinct" : "9"
+  },
+  "10 Coventry Street" : {
+    "address" : "10 Coventry Street",
+    "pollingLoc" : "Madison Park Complex",
+    "pollingAddress" : "735 Shawmut Avenue",
+    "instructions" : "Vote in Haynes House Community Room.",
+    "ward" : "9",
+    "precinct" : "4"
   },
   "Davenport Commons A": {
     "address" : "700 Columbus Ave",
@@ -17,6 +25,14 @@
   },
   "Davenport Commons B": {
     "address" : "696 Columbus Ave",
+    "pollingLoc" : "Madison Park Complex",
+    "pollingAddress" : "735 Shawmut Avenue",
+    "instructions" : "Vote in Haynes House Community Room.",
+    "ward" : "9",
+    "precinct" : "4"
+  },
+  "Douglass Park Leased Properties": {
+    "address" : "650 Columbus Ave",
     "pollingLoc" : "Madison Park Complex",
     "pollingAddress" : "735 Shawmut Avenue",
     "instructions" : "Vote in Haynes House Community Room.",
@@ -56,10 +72,20 @@
     "precinct" : "7"
   },
   "Levine Hall" : {
-    "address" : "122 St. Stephen Street"
+    "address" : "122 St. Stephen Street",
+    "pollingLoc" : "Symphony Plaza West",
+    "pollingAddress" : "333 Massachusetts Avenue",
+    "instructions" : "Vote in community room",
+    "ward" : "4",
+    "precinct" : "8"
   },
   "Light Hall" : {
-    "address" : "83 St. Stephen Street"
+    "address" : "81 St. Stephen Street",
+    "pollingLoc" : "Symphony Plaza West",
+    "pollingAddress" : "333 Massachusetts Avenue",
+    "instructions" : "Vote in community room",
+    "ward" : "4",
+    "precinct" : "8"
   },
   "153 Hemenway Street" : {
     "address" : "153 Hemenway Street",
@@ -204,5 +230,13 @@
     "instructions" : "Vote in Casella Gallery.  HP Entrance left of main entrance.",
     "ward" : "4",
     "precinct" : "9"
+  },
+  "319 Huntington Avenue" : {
+    "address" : "319 Huntington Avenue",
+    "pollingLoc" : "Symphony Plaza West",
+    "pollingAddress" : "333 Massachusetts Avenue",
+    "instructions" : "Vote in community room",
+    "ward" : "4",
+    "precinct" : "8"
   }
 }
