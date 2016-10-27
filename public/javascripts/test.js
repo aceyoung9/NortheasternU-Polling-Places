@@ -24,7 +24,9 @@ var dorms = ["Burstein Hall",
   "West Village E",
   "West Village F",
   "West Village G",
-  "West Village H"];
+  "West Village H",
+  "Willis Hall"
+];
 
 // constructs the suggestion engine
 var dorms = new Bloodhound({
