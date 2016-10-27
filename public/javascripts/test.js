@@ -2,7 +2,7 @@ var dorms = ["Burstein Hall",
   "10 Coventry Street",
   "Davenport Commons A",
   "Davenport Commons B",
-  "Douglass Park Leased Properties"
+  "Douglass Park Leased Properties",
   "East Village",
   "International Village",
   "Kennedy Hall",
@@ -10,7 +10,7 @@ var dorms = ["Burstein Hall",
   "Levine Hall",
   "Light Hall",
   "153 Hemenway Street",
-  "319 Huntington Avenue"
+  "319 Huntington Avenue",
   "Loftman",
   "Melvin Hall",
   "Rubenstein Hall",
@@ -27,7 +27,7 @@ var dorms = ["Burstein Hall",
   "West Village F",
   "West Village G",
   "West Village H",
-  "Willis Hall"
+  "Willis Hall",
   "White Hall"
 ];
 
