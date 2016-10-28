@@ -8,6 +8,7 @@ module.exports = function(defaults) {
   });
 
   app.import(app.bowerDirectory + '/bootstrap/dist/css/bootstrap.css');
+  app.import(app.bowerDirectory + '/typeahead.js/dist/typeahead.bundle.js');
 
   return app.toTree();
 };
