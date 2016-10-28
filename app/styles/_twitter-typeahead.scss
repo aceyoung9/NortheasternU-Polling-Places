@@ -1,0 +1,30 @@
+.twitter-typeahead {
+  width: 100%;
+  color: #fff;
+}
+
+.tt-dropdown-menu {
+  min-width: 160px;
+  margin-top: 2px;
+  padding: 5px 0;
+  background-color: lighten($slateBlue, 25%);
+  border: 0;
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  background-clip: padding-box;
+}
+
+.tt-suggestion {
+  display: block;
+  padding: 3px 20px;
+  p {
+    margin: 0;
+  }
+}
+
+.tt-suggestion.tt-is-under-cursor {
+  color: #fff;
+  a {
+    color: #fff;
+  }
+}
