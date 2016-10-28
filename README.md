@@ -16,7 +16,7 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd northeastern-u-polling-places`
+* `cd NortheasternU-Polling-Places`
 * `npm install`
 * `bower install`
 
