@@ -1,0 +1,17 @@
+/* Colors */
+$slateBlue: #34515e;
+$liteRed: #E08283;
+$muteBlue: #9FFFF5;
+$cafe: #4B3B40;
+$deepBlue: #353954;
+$aqua: #2DBFBF;
+$NEON: #F1F227;
+
+html, body {
+  background-color: #333;
+  // background-color: mix(#333, $slateBlue, 80%);
+  color: $muteBlue;
+  // font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+}
