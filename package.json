@@ -11,9 +11,9 @@
     "url": "https://github.ccs.neu.edu/alice/artg2260-ducking-robot"
   },
   "author": {
-    "name" : "Alice Young",
-    "email" : "aliceyoung.9@gmail.com",
-    "url" : "http://aliceyoung.xyz"
+    "name": "Alice Young",
+    "email": "aliceyoung.9@gmail.com",
+    "url": "http://aliceyoung.xyz"
   },
   "license": "GPLv3",
   "dependencies": {
