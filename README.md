@@ -3,27 +3,26 @@ Northeastern Polling Places
 Final Project for ARTG 2260  
 Alice Young
 
-## Libraries Used
-* typeahead.js
-* jQuery
-* Bootstrap
+## 🚀 Quick start
 
-Also the Google Maps Embed API. Runs on ExpressJS/Node.
+1.  **Install the Gatsby CLI.**
 
-## How to Run Locally
+    The Gatsby CLI helps you create new sites using Gatsby starters (like this one!)
 
-Requires [Node.js](https://nodejs.org/) and Bower.
+    ```sh
+    # install the Gatsby CLI globally
+    npm install -g gatsby-cli
+    ```
 
-In the directory where you've unzipped this...
+3.  **Start developing.**
 
-```
-npm install
-bower install
-npm start
-```
+    Navigate into your new site’s directory and start it up.
 
-Once you've done this, navigate to
-[http://localhost:3000/](http://localhost:3000/) in your browser.
+    ```sh
+    yarn install
+    gatsby develop
+    ```
 
-## Contributing
-Contributor Convent, latest version. Be nice, folks.
+4.  **Open the source code and start editing!**
+
+    Your site is now running at `http://localhost:8000`!
