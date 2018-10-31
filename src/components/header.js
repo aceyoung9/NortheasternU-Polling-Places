@@ -8,8 +8,8 @@ const Header = ({ siteTitle }) => (
         <Link to="/">{siteTitle}</Link>
       </h3>
       <nav className="nav nav-masthead justify-content-center">
-        <Link to="/page-2/" className="nav-link">
-          Go to page 2
+        <Link to="/about/" className="nav-link">
+          About
         </Link>
       </nav>
     </div>
